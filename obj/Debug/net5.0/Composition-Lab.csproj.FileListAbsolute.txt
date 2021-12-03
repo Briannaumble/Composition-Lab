@@ -1,0 +1,15 @@
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.csproj.AssemblyReference.cache
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.AssemblyInfoInputs.cache
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.AssemblyInfo.cs
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.csproj.CoreCompileInputs.cache
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/Composition-Lab.deps.json
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/Composition-Lab.runtimeconfig.json
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/Composition-Lab.runtimeconfig.dev.json
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/Composition-Lab.dll
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/ref/Composition-Lab.dll
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/bin/Debug/net5.0/Composition-Lab.pdb
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.dll
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/ref/Composition-Lab.dll
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.pdb
+/Users/briannaumble/Documents/MIS221/source/repos/Composition-Lab/obj/Debug/net5.0/Composition-Lab.genruntimeconfig.cache
